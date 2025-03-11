@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Jimsedric Dev 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building amazing things with code. Here’s a bit about me:
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 - 📚 **Learning:** AI/ML, Blockchain, DevOps, server management, and systems management
 - ☁ **Cloud & Containers:** AWS (currently using), Docker (currently using)
 - 🎯 **Goals:** Contributing more to open source and collaborating with amazing developers
-- 📫 **Contact Me:** jimsedric@gmail.com | [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)
+- 📫 **Contact Me:** jimsedric@gmail.com
 
 ---
 
@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 
 ---
 
-### 🎭 Interactive Animations
 
 #### 🏆 Dynamic Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=espinojim2&theme=darkhub)
