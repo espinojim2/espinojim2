@@ -37,11 +37,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 
 
 
-<!-- Import the component -->
-<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+[![View VRM Model](https://upload.wikimedia.org/wikipedia/commons/8/81/3D_icon.svg)]([https://vrm-viewer.vercel.app/?url=https://raw.githubusercontent.com/espinojim2.github.io/blob/master/streetcone.vrm)
 
-<!-- Use it like any other HTML element -->
-<model-viewer alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" src="shared-assets/models/NeilArmstrong.glb" ar environment-image="shared-assets/environments/moon_1k.hdr" poster="shared-assets/models/NeilArmstrong.webp" shadow-intensity="1" camera-controls touch-action="pan-y"></model-viewer>
+
 
 
 ---
