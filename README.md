@@ -31,6 +31,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 #### 🏆 Dynamic Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=espinojim2&theme=darkhub)
 
+#### 🌍 Visitors 
+![Visitor Count](https://komarev.com/ghpvc/?username=espinojim2&label=Profile%20Views&color=blue&style=plastic)
 
 #### 🌍 HTMX Visitors
 <p align="center">
