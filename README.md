@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 
 
 <p align="center">
-  <img src="https://images-cdn.9gag.com/photo/avgrDDb_700b.jpg" width="250px">
+  <img src="https://images-cdn.9gag.com/photo/avgrDDb_700b.jpg" width="450px">
 </p>
 
 
