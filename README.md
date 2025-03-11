@@ -15,18 +15,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 
 ### 🚀 My GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=espinojim2&layout=compact&theme=radical)
-      </td>
-      <td>
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=espinojim2&show_icons=true&theme=radical)
-      </td>
-    </tr>
-  </table>
-</div>
+|---------|------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=espinojim2&layout=compact&theme=radical)
+    |
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=espinojim2&show_icons=true&theme=radical) |
+     
 
 
 
