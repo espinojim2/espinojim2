@@ -37,8 +37,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 
 
 
-[![View VRM Model](https://upload.wikimedia.org/wikipedia/commons/8/81/3D_icon.svg)]([https://vrm-viewer.vercel.app/?url=https://espinojim2.github.io/streetcone.vrm)
 
+
+
+<p align="center">
+  <img src="https://images-cdn.9gag.com/photo/avgrDDb_700b.jpg" width="250px">
+</p>
 
 
 
