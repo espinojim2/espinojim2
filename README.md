@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves building amazing things with code. Here’s a bit about me:
 
 - 💻 **Tech Stack:** JavaScript, HTMX, Node.js, Deno, Python
-- 🌐 **Other Technologies:** HTML, PHP, C, Java, Django, Wordpress, etc.
+- 🌐 **Other Technologies:** HTML, CSS, PHP, C, Java, Django, Wordpress,ollama etc.
 - 🗄 **Databases:** MySQL, PostgreSQL, SQLite, etc.
 - 🚀 **Currently Working On:** Open-source projects and cool web applications
 - 📚 **Learning:** AI/ML, Blockchain, DevOps, server management, and systems management
@@ -11,7 +11,15 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building amaz
 - 🎯 **Goals:** Contributing more to open source and collaborating with amazing developers
 - 📫 **Contact Me:** jimsedric@gmail.com
 
----
+<h2 align="center">⚒️ Tools I use ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=deno,nodejs,github,php,javascript,jquery,typescript,express,bash,vite,laravel,java,c,docker,htmx,flask,blender,sketchup,django,sublime,wordpress,raspberrypi,arduino,cloudflare,aws,debian,ubuntu,windows,stackoverflow,symfony" /><br>
+    <img src="https://skillicons.dev/icons?i=python,react,tailwind,bootstrap,mui,mysql,postgres,sqlite,vue,html,css,vscode,postman,git" />
+</div>
+
+<br/>
+<hr/>
 
 ### 🚀 My GitHub Stats
 
