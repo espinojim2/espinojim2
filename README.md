@@ -11,6 +11,9 @@
   <a href="mailto:jimsedric@gmail.com">
     <img src="https://img.shields.io/badge/Email-jimsedric@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
+ <a href="https://jimsedric-coder.pages.dev">
+    <img src="https://img.shields.io/badge/Website-jimsedric~coder.pages.dev-blue?style=flat-square&logo=google-chrome" alt="Website" />
+  </a>
 </p>
 
 ---
