@@ -21,12 +21,12 @@
 ### 🚀 About Me
 
 - 💻 **Tech Stack:** JavaScript, HTMX, Node.js, Deno, Python  
-- 🌐 **Other Technologies:** HTML, CSS, PHP, C, Java, Django, Wordpress, Ollama  
+- 🌐 **Other Technologies:** HTML, CSS, PHP, C, Java, Django, Wordpress, n8n, Ollama  
 - 🗄 **Databases:** MySQL, PostgreSQL, SQLite  
 - ☁ **Cloud & Containers:** AWS, Docker, Bluehost, Proxmox 
 - 📚 **Learning:** AI/ML, Blockchain, DevOps, Server & Systems Management  
 - 🎯 **Goals:** Contribute more to open source and collaborate with amazing developers  
-
+- and yes I do AI automations
 ---
 
 ### 🛠️ Tools I Use
